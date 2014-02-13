@@ -1,0 +1,583 @@
+1	Modern Condensed
+11	GO TO literal 11 (DeVinne)
+3	News  
+311	GO TO literal 311 (Russian Adaptation Of No. 11)
+4	Cosmopoliltan
+41	GO TO literal 41 (DeVinne Outline Italic)
+411	GO TO literal 411 (Modern Condensed Italic)
+5	Post Text
+6	Agate
+71	GO TO literal 71 (French Old Style)
+8	Modern  
+8	Modern Italic
+9	Newspaper Modern
+101	GO TO literal 101 (German Schwabacher)
+11	DeVinne
+111	GO TO literal 111 (DeVinne Condensed)
+1111	DeVinne Italic
+12	Cheltenham Bold Outline
+121	GO TO literal 121 (Chamfer Condensed)
+13	Modern  
+14	Modern Medium Condensed
+141	GO TO literal 141 (Cheltenham Bold Extra Cond.)
+15	Farmer's Old Style
+16	Ronaldson Old Style
+17	Typewriter, Remington Ribbon
+171	GO TO literal 171 (Typewriter, New Royal)
+19	Modern Medium Extended
+20	Century Expanded
+201	Century Expanded Italic
+21	Binney Old Style
+211	GO TO literal 211 (DeVinne, 5½ pt body)
+2111	Binney Old Style Italic
+22	French Cadmus
+221	GO TO literal 221 (Overgrown No. 80)
+23	Law Italic
+231	GO TO literal 231 (Della Robbia)
+25	Cushing Old Style
+251	Cushing Old Style Italic
+26	Modern Antique
+27	Antique, Old Style
+28	Title  
+281	GO TO literal 281 (Ancient Hebrew)
+301	GO TO literal 301 (Goudy Bible)
+31	Bruce Old Style No. 20
+311	GO TO literal 311 (Russian Adaptation Of No. 11)
+32	Tallone Max Factor
+321	Tallone Max Factor Italic
+321	GO TO literal 321 (Binney Old Style Modified)
+33	Aldine
+331	GO TO literal 331 (Sans Serif Medium)
+34	Modern No. 4
+341	GO TO literal 341 (Copperplate Gothic Light Cond.)
+35	Atlantic
+36	Scotch Roman
+361	Scotch Roman Italic
+361So	GO TO literal 361So (Scotch Open Shaded Italic)
+37	English Caslon Old Style [roman]
+37	English Caslon Old Style [italic]
+371	English Caslon Old Style Italic
+38	Goudy Light Old Style [sic, from a specimen]
+381	Goudy Light Old Style Italic [sic, from a specimen]
+39	Winchell
+391	GO TO literal 391 (Goudy Heavyface Open)
+40	Contour No. 1
+401	GO TO literal 401 (Janson)
+4011	GO TO literal 4011 (Janson Italic)
+41	DeVinne Outline Italic
+411	GO TO literal 411 (Modern Condensed Italic)
+411	Source B lists 411 as DeVinne Outline Italic, probably in error.
+42	DeVinne Outline
+43	Gothic Condensed Title
+44	Ben Franklin Outline
+45	Pabst Old Style
+461	GO TO literal 461 (Nicholas Cochin)
+4611	GO TO literal 4611 (Nicholas Cochin Italic)
+47	Gothic, Light
+471	GO TO literal 471 (Typewriter, Rem. Noiseless Elite)
+48	Gothic Caps Condensed
+49	Gothic Condensed
+50	Gothic, Light Condensed
+51	Alternate Gothic
+51	Modernized Gothic
+52	Philadelphia Lining Gothic
+56	Ionic
+56	Lining Gothic No. 525
+57	Times New Roman Bold
+571	GO TO literal 571 (Typewriter, Rem. Noiseless Elite Underscore)
+58	Jenson Old Style
+59	Contour No. 4
+60	Plymouth
+601	Plymouth Italic
+61	Cochin Old Style
+611	Cochin Old Style Italic
+62	Ionic
+63	Latin Antique
+64	Cheltenham Old Style
+641	Cheltenham Old Style Italic
+65	Craw Clarendon
+66	Lining Gothic No. 545
+671	GO TO literal 671 (Typewriter, New Royal Underscored)
+68	MacFarland
+681	MacFarland Italic
+69	Schoeffer
+70	Typewriter, Remington
+701	Typewriter, Remington Goudy Italic
+71	French Old Style
+72	Typewriter, Reproducing
+73	Contour No. 5
+74	Typewriter, Mailing List
+75	Bradley
+76	Antique Modern, Condensed
+77	Alternate Gothic (No. 2)
+771	Alternate Gothic Italic (No. 2)
+78	Caslon Old Roman
+781	Caslon Old Roman Italic
+79	Caslon Bold
+791	Caslon Bold Italic
+80	Modern  
+81	Clarendon
+82	[Hess] Stationers Gothic Medium
+83M	Vertical Greek
+84	[Hess] Stationers Gothic Light
+85	[Hess] Stationers Gothic Bold
+86	Cheltenham Bold
+861	Cheltenham Bold Italic
+88	Cheltenham Bold Condensed
+881	Cheltenham Bold Condensed Italic
+89	Clearface
+891	Clearface Italic
+901	GO TO literal 901 (Piece Accents, Roman)
+92	Manila
+93	News Gothic Bold
+94	Latin Condensed
+95	Cloister Black
+95M	Cloister Black, German Adaptation
+96	Howland Open
+97	Powell
+971	Powell Italic
+98	Bookman Old Style
+981	Bookman Old Style Italic
+99M	German No. 32
+100M	German Heintzman
+101	German Schwabacher
+102	Washington Text
+102M	Washington Text, German Adaptation
+103	Title No. 104, Condensed
+104	Runic Condensed
+1041	GO TO literal 1041 (Runic Condensed Title)
+105	Title, Half
+106	Gothic, Lining Light
+107	Franklin Gothic
+108	Compressed No. 30
+109	Gothic, Wide
+110	Gothic Condensed (No. 124)
+111	DeVinne Condensed
+112	Gothic, Lining Medium
+113	Condensed Caslon
+114	Tiffany Gothic
+115	Law Italic
+117	Grasset
+117	Grasset Italic
+118	Century Bold
+1181	Century Bold Italic
+119	Winchell Condensed
+120	Modified #20
+121	Chamfer Condensed
+123	Contour No. 6
+124	Draftsman Gothic
+126	Massey Initials
+127	Ben Franklin Initials
+128	Title  
+129	Lining Medium Gothic
+132	Gothic, Inclined Bold Italic
+134	Cushing Monotone
+137	Inland Caslon Old Style
+138	Process
+138	Process Italic
+139	Howland
+140	Modern Condensed Gothic
+140	Tourist Gothic
+1401	Tourist Gothic Italic
+141	Cheltenham Bold Extra Condensed
+142	John Hancock
+143	Strathmore Old Style
+144	Antique Bold
+145	Antique Bold Condensed
+146	Condensed No. 54
+149	Gothic No. 6
+150	French Round Face
+1501	French Round Face Italic
+152	Wilson Series
+153	Antique
+155M	Porson Greek
+156	Ionic, Round
+157	Century Old Style
+158	Masterman
+159	Hess Bold
+1591	Hess Bold Italic
+160M	Title Greek
+161	Hess Title
+161	Hess Title Italic
+162	Light Litho Roman
+163	Adtype
+164	Cheltenham Wide
+1641	Cheltenham Wide Italic
+165	Lining Gothic No. 7  
+166	Copperplate Gothic Heavy Extended
+168	Copperplate Gothic Heavy
+12-R 168	Copperplate Gothic Heavy Rev.
+169	Copperplate Gothic Heavy Condensed
+170	Typewriter, Smith Premier
+171	Typewriter, New Royal
+172	Suburban French
+173	Renner
+174	Renner Underscore
+175	Bodoni
+1751	Bodoni Italic
+176	Lining Gothic, Mid-Gothic No. 2
+177	Alternate Gothic (No. 3)
+178	German Light
+179	German Bold  
+180	Lanston Bold
+182	Modern Roman Cancelled
+183M	Inscription Greek
+185	Condensed Title Gothic
+186	Cheltenham Medium
+186	Cheltenham Medium Italic
+187	Copperplate Gothic Light
+188	Engravers Old English Bold
+189	Rockwell Antique
+1891	Stymie Bold Italic
+190	Stymie Light
+1901	Stymie Light Italic
+191M	Russian, Church
+193	Rockwell Antique Shaded
+194	Bodoni Bold Shaded
+195	French Round Face Cancelled
+197	Copperplate Gothic Light Condensed
+199M	German News Face
+200M	German Bold News Face
+201	Century Expanded Italic
+202	Comstock
+203	Comstock Condensed
+204	News Gothic Condensed
+205	Ticketograph Extra Condensed
+205	News Gothic Bold Condensed
+206	News Gothic
+207	Ticketograph
+208	Ticketograph Condensed
+209	German Teutonic Title
+210	DeVinne Extra Condensed No. 2
+211	DeVinne
+212	Gothic, Western Union
+214	Modern Medium Condensed
+216	Modern No. 3 Extra Condensed
+217	Swing Bold
+218	Cheltenham Bold Shaded
+220	Salem
+221	Overgrown No. 80
+222	Gothic Condensed (No. 3)
+223	Engravers Roman
+224	Victoria Italic
+225	Artscript
+227	Jefferson Gothic
+227	News Gothic Extra Condensed
+229	Lining Central Antique No. 2
+230	Globe Gothic Extra Condensed
+231	Della Robbia
+233	Antique
+235	Glamour Light
+236	Glamour Medium
+237	Glamour Bold
+238	Light Face Condensed No. 7
+239	Globe Gothic Condensed
+240	Globe Gothic
+241	Slimline
+242	Hess Old Style
+2421	Hess Old Style Italic
+243	Italian Old Style
+2431	Italian Old Style Italic
+245	John Hancock Condensed
+246	Title Shaded Litho
+247	Lining Latin Condensed
+248	Garamont
+2481	Garamont Italic
+249	Gothic No. 3
+253	Cochin Bold Tooled
+254K	Inclined Gothic
+2541	Inclined Gothic
+255	Title  
+256	Ionic, Wide
+258	Jenson Condensed
+259	Typewriter, Oliver Printype
+262	Cochin Open
+263	Skeleton Gothic
+264	Cheltenham Old Style Condensed
+266	Copperplate Gothic Heavy Extended
+268	Kennerley Old Style
+2681	Kennerley Old Style Italic
+269	Kennerley Bold
+2691	Kennerley Bold Italic
+270	Typewriter, Underwood
+271	Typewriter, Burroughs 02 Elite
+272	Typewriter, Royal
+274	Forum
+275	Bodoni Bold
+2751	Bodoni Bold Italic
+276	Lining Mid Gothic, No. 2
+277	Typewriter, IBM Elite
+279	Goudy Lanston
+280M	Classic Hebrew
+281M	Ancient Hebrew
+282	Cooper Black
+285	Cheltenham Inline Extended
+286	Cheltenham Inline
+287	Cheltenham Bold Extended
+288	Cheltenham Inline Extra Condensed
+289	Clearface Italic
+2891	Clearface Italic (Light)
+290	Stymie Medium
+2901	Stymie Medium Italic
+291	Goudy Open
+2911	Goudy Open Italic
+292	True Doric
+293	Goudy Modern
+2931	Goudy Modern Italic
+294	Goudy Bold
+2941	Goudy Bold Italic
+2941S	Goudy Bold Italic Swash
+295	Cloister Bold
+2951	Cloister Bold Italic
+296	Goudy Initials
+297	Modernistic
+298	Bookman Old Style Condensed
+300	University of California
+3001	Californian [McGrew]
+301	Goudy Bible
+302	Brush
+303	Long Primer Bold Latin
+304	Long Primer Ionic
+305	Fournier le Jeune
+306	Broadway
+307	Broadway Engraved
+308	Russian Adaptation of No. 8 Series
+308	Russian Italic
+309	Hadriano
+310	Lombardic Capitals
+311	Russian Adaptation of No. 11 Series
+313	Gallia
+315	Deepdene
+3151	Deepdene Italic
+316	Deepdene Medium
+317	Deepdene Bold
+3171	Deepdene Bold Italic
+318	Russian Adaptation of No. 118 Series
+321	Binney Old Style Modified
+321	GO TO 32/321 Tallone Max Factor Italic
+322	Broad Stroke Cursive
+323	Engravers Bold
+324	Goudy Cursive
+325	Hess Monoblack
+327	Goudy Text
+328	Bold Face No. 2
+329	Sans Serif Light  
+329	Sans Serif Light (H91 Characters)
+329	Sans Serif Light (H92 Characters)
+3291	Sans Serif Light Italic
+3291	Sans Serif Light Italic (H91 Characters)
+330	Sans Serif Bold
+330	Sans Serif Bold (H9 Characters)
+330	Sans Serif Bold (H91 Characters)
+330	Sans Serif Bold (H92 Characters)
+3301	Sans Serif Bold Italic
+3301	Sans Serif Bold Italic (H91 Characters)
+331	Sans Serif Medium
+331	Sans Serif Medium (H91 Characters)
+331	Sans Serif Medium (H92 Characters)
+332	Sans Serif Extrabold
+332	Sans Serif Extrabold (H91 Characters)
+3321	Sans Serif Extrabold Italic
+333	Sans Serif Extrabold Condensed
+334	Artcraft
+337	Caslon Old Style
+3371	Caslon Old Style Italic
+339	Caps in Square
+340	Copperplate Gothic Light
+341	Copperplate Gothic Light Condensed
+342	Copperplate Gothic Heavy
+343	Copperplate Gothic Heavy Condensed
+344	Copperplate Gothic Heavy Extended
+345	Copperplate Gothic Bold
+3461	Copperplate Gothic Bold Italic
+347	Engravers Roman
+348	Engravers Bold
+349	Lining Gothic No. 545
+350	Lining Gothic No. 7 Modern 
+351	Caps in Circle
+352	Lightline Title Gothic
+353	Baskerville
+3531	Baskerville Italic
+354	Sans Serif Medium Condensed
+354S	Sans Serif Medium Condensed, Greek
+357	Sans Serif Light Condensed
+358	Pendrawn
+359	Woman's Home Companion Face
+3591	Woman's Home Companion Face Italic
+360	Post Condensed
+361So	Scotch Open Shaded Italic
+362	Times New Roman
+363	Hess Neobold
+365	Caps in Circle
+366	Gothic, Octic
+368	Kennerley Open Capitals
+370	Typewriter, Remington Underscore
+372	Typewriter, Reproducing Underscore
+373	Flash
+375	Bodoni
+3751	Bodoni Italic
+376	Bold Antique
+377	Spire
+379	Caslon Shadow Title
+380	Goudy Heavyface
+3801	Goudy Heavyface Italic
+382	Goudy Heavyface Condensed
+383	Goudy Handtooled
+3831	Goudy Handtooled Italic
+3831S	Goudy Handtooled Italic Swash
+384	Goudy Sans Light
+3841	Goudy Sans Light Italic
+386	Goudy Sans Bold
+388	Wedding Text
+390	Stymie Extrabold
+3901	Stymie Extrabold Italic
+391	Goudy Heavyface Open
+392	Goudy Thirty
+394	Goudy Old Style
+3941	Goudy Old Style Italic
+395	Cloister Old Style
+3951	Cloister Old Style Italic
+398	Bookman, New
+400	Granjon
+400	Granjon Italic
+401	Janson
+4011	Janson Italic
+402	Bell
+4021	Bell Italic
+403	Fournier
+4031	Fournier Italic
+404	Onyx
+4041	Onyx Italic
+405	Bembo
+4051	Bembo Italic
+407	Streamline Black
+409	Hadriano Stone-Cut
+410	Goudy Village
+410	Goudy Village Italic
+411	Modern Condensed Italic
+412	Valiant
+417	Speidotype Light
+418	Century Bold Condensed
+4181	Century Bold Condensed Italic
+420	Century Schoolbook
+420	Century Schoolbook Italic
+4201	Century Schoolbook Italic 
+425	Stylescript
+427	Goudy Text Shaded
+430	Sans Serif Lined
+431	Parson's Bold
+432	Goudy Franciscan
+432	Light Hobo
+437	Caslon Old Style
+4371	Caslon Old Style Italic
+443	Italian Old Style Wide
+448	Monotype Initials
+4491	GO TO literal 4491 (Script Caps)
+452	Lightline Gothic
+453	Baskerville Bold
+458	Post Roman Heading Letter
+461	Nicholas Cochin
+4611	Nicholas Cochin Italic
+462	Bulmer
+4621	Bulmer Italic
+466	Lining Gothic
+470	Typewriter, Underwood Underscore
+471	Typewriter, Remington Noiseless Elite
+472	Typewriter, Royal Underscore
+473	Flash Bold
+475	Bradley, German Adaptation
+477	Typewriter, IBM Elite Underscored
+479	Westinghouse Gothic
+481	Gothic (Helvetica Light)
+482	Cooper
+4821	Cooper Italic
+490	Stymie Extrabold Condensed
+495	Cloister Black, German Adaptation
+496	Gothic (Helvetica)
+500	Granjon Bold
+503	(Montgomery) Ward Extended
+505	(Montgomery) Ward and Italic
+507	Franklin Gothic Extra Condensed
+508	Gothic (Helvetica Medium)
+515	Gothic Condensed
+517	Speidotype Bold
+518	Century Bold Extended
+520	Century Mono-Photo
+537	New Caslon
+5371	New Caslon Italic
+543	New Gothic Condensed
+548	Garamond Bold
+5481	Garamond Bold Italic
+551	Caps in Circle
+565	Caps in Circle
+566	Gothic, Octic No. 2
+571	Typewriter, Remington Noiseless Elite Underscore
+572	Typewriter, Reproducing Bold Broadface
+575	Bodoni Bold Panelled
+582	Cooper Tooled
+590	Stymie Medium Condensed
+600	Hess New Bookbold
+600	Hess New Bookbold Italic
+603	20th Century Extrabold
+6031	20th Century Extrabold Italic
+604	20th Century Bold
+6041	20th Century Bold Italic
+605	20th Century Medium
+6051	20th Century Medium Italic
+606	20th Century Light
+6061	20th Century Light Italic
+607	20th Century Extrabold Condensed
+6071	20th Century Extrabold Condensed Italic
+608	20th Century Medium Condensed
+6081	20th Century Medium Condensed Italic
+609	20th Century Ultrabold
+6091	20th Century Ultrabold Italic
+610	20th Century Ultrabold Condensed
+6101	20th Century Ultrabold Condensed Italic
+611	GO TO 61/611 (Cochin Old Style / Italic)
+612	20th Century Bold Condensed
+614	20th Century Ex. Bold Extended
+616	Cochin Bold
+6161	Cochin Bold Italic
+617	Speidotype Light
+618	Century Text
+620	Century Schoolbook Bold
+630	Collier Heading
+637	American Caslon
+6371	American Caslon Italic
+641	GO TO 64/641 (Cheltenham Old Style / Italic)
+648	American Garamond
+6481	American Garamond Italic
+650	Craw Clarendon Book
+665	Clarendon Bold Extended
+670	Typewriter, Redesigned Underwood
+671	Typewriter, New Royal Underscored
+675	Ultra Bodoni
+6751	Ultra Bodoni Italic
+681	GO TO 68/681 (MacFarland / Italic)
+690	Stymie Light Condensed
+700	Poster
+701	GO TO 70/701 (Typewriter Remington / Type. Rem. Goudy Italic)
+707	Franklin Gothic Condensed
+771	GO TO 77/771 (Alternate Gothic No. 2 / Italic)
+775	Bodoni Bold Condensed
+781	GO TO 78/781 (Caslon Old Roman / Italic)
+790	Stymie Bold
+875	Bodoni Book
+8751	Bodoni Book Italic
+890	Squareface
+891	GO TO 89/891 (Clearface / Italic)
+901	Piece Accents, Roman
+902	Piece Accents, Bold
+903	Piece Accents, Gothic
+904	Piece Accents, Open
+905	Title, Half 12 Point
+971	GO TO 97/971 (Powell / Italic)
+975	Recut Bodoni Bold
+975	Recut Bodoni Bold Italic
+1041	Runic Condensed Title
+1111	GO TO 11/111/1111 (DeVinne Italic)
+1891	GO TO 189/1891 (Rockwell Antique / Stymie Bold Italic)
+2111	GO TO 21/211/2111 (Binney Old Style Italic)
+4102	Washington Text, German Adaptation
+4491	Script Caps
